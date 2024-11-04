@@ -1,7 +1,7 @@
 
 import React from 'react'
 
-function page() {
+function Home() {
   return (
     <div>
       <div className="min-w-[200px] grid mx-auto gap-5 py-5 m-5 grid-rows-4 grid-flow-col">
@@ -21,4 +21,4 @@ function page() {
   )
 }
 
-export default page
+export default Home
